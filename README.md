@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Maybeafzal
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning java, python and c++...
-- 💞️ I’m looking to collaborate on desktop api...
-- 📫 How to reach me (drop your query)...
+👋 Hi, I'm @Maybeafzal.
 
-<!---
-Maybeafzal/Maybeafzal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Profession: I work as a Dynamics CRM Developer.
+💻 Skills: My expertise includes JavaScript, .NET C#, and CRM customization.
+🔧 Experience: I specialize in building and customizing CRM solutions to enhance client operations and achieve strategic goals.
+🤝 Collaborative Interests: I'm open to collaborating on projects involving CRM development and integration.
+📩 Contact: If you'd like to connect or have any questions, feel free to reach out!
